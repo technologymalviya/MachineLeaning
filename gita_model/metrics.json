@@ -1,0 +1,10 @@
+{
+  "test_samples": 700,
+  "train_samples": 2800,
+  "verse_top1_accuracy": 52.86,
+  "verse_top3_accuracy": 67.0,
+  "answer_token_f1": 25.03,
+  "answer_cosine_similarity": 13.71,
+  "answer_f1_when_verse_top3": 26.07,
+  "overall_knowledge_score": 41.82
+}
